@@ -1,4 +1,4 @@
-var capital = document.getElementById('text')
+var capital = document.querySelector('.capital')
 var country = document.querySelector('.country')
 var flag = document.querySelector('.flag');
 var info = document.querySelector('.info');
@@ -23,15 +23,6 @@ fetch(`https://restcountries.eu/rest/v2/capital/${capital.value}`)
 .catch(error => console.log(error));
 
 });
-
-
-// console.log('country: ',country);
-// console.log('Flag: ',flag);
-// console.log('region: ',region);
-// console.log('population: ',population);
-
-
-    
 
 
 const Key="959c745180588f77a59a13e5043064ef"
