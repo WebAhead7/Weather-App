@@ -51,7 +51,7 @@ const Key="959c745180588f77a59a13e5043064ef"
                     min_temp=data.list.slice(list_today_count+8*index, list_today_count+8*(index+1)).map(item=>item.main.temp_min).reduce((min,temp)=>temp<min? temp: min, data.list.slice(list_today_count+8*index, list_today_count+8*(index+1)).map(item=>item.main.temp_min)[0]);
                     max_temp=data.list.slice(list_today_count+8*index, list_today_count+8*(index+1)).map(item=>item.main.temp_max).reduce((max,temp)=>temp>max? temp: max, data.list.slice(list_today_count+8*index, list_today_count+8*(index+1)).map(item=>item.main.temp_max)[0]);
                     
-                    //In following Lines I'm checking the closest temp from a given day to the average one, so I can after that to get the 
+                    // In the following Lines I'm checking the closest temp from a given day to the average one, so I can after that to get the 
                     //  wind speed and the weather description with respect to that specifec time in that day!
 
                     //I calculate the average temp..
