@@ -1,3 +1,30 @@
+var capital = document.querySelector('.capital')
+var country = document.querySelector('.country')
+var flag = document.querySelector('.flag');
+var info = document.querySelector('.info');
+var region = document.querySelector('.region');
+var population = document.querySelector('.population');
+var img = document.querySelector('.img')
+
+document.getElementById("submit").addEventListener("click", function(event) {
+    event.preventDefault();
+    
+fetch(`https://restcountries.eu/rest/v2/capital/${capital.value}`)
+.then(response => response.json())
+.then(data => {
+    const finaldata = data[0]
+    country.innerHTML = finaldata.name;
+    img.src= finaldata.flag;
+    region.innerHTML = finaldata.region;
+    population.innerHTML = finaldata.population;
+
+
+})
+.catch(error => console.log(error));
+
+});
+
+
 const Key="959c745180588f77a59a13e5043064ef"
 document.querySelector("form").addEventListener("submit", event=>{
     event.preventDefault();
