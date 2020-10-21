@@ -2,19 +2,19 @@
 html,body {
     background-color: #F3F3F3;
     font-family: 'Roboto', sans-serif;
-    background-image: url(img/weather2.jpg);
+    /* background-image: url(img/weather2.jpg);
     background-size: cover;
     background-repeat: no-repeat;
-    background-attachment: fixed;
+    background-attachment: fixed; */
   
 }
-/* #myVideo {
+#myVideo {
     position: fixed;
     right: 0;
     bottom: 0;
     min-width: 100%; 
     min-height: 100%;
-  } */
+  }
   
 .continer {
     margin: 0 auto;
@@ -30,6 +30,11 @@ html,body {
     -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
     box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
 }
+    input{
+        display: flex;
+       justify-content: center;
+
+    }
 
 input[type=text] {
     margin: 0 auto;
@@ -39,7 +44,7 @@ input[type=text] {
     border-radius: 4px;
     font-size: 16px;
     background-color: white;
-    background-image: url('searchicon.png');
+    background-image: url('/img/searchicon.png');
     background-position: 10px 10px; 
     background-repeat: no-repeat;
     padding: 12px 20px 12px 40px;
