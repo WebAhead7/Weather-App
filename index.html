@@ -7,22 +7,40 @@
     <title>Document</title>
 </head>
     <body>
-        <div class="continer">
 
+        <video autoplay muted loop id="myVideo">
+            <source src="img/Pexels Videos 2157006.mp4" type="video/mp4">
+            Your browser does not support HTML5 video.
+          </video>
+          
+        <div class="continer">
+            <br>
            <!-- search  -->
-           <form class="search">
+           <!-- <form class="search">
            <label for="text">search capital city</label>
            <input type="text" id="text" name="text" placeholder="Search..">
            <button type="submit" id="submit"></button>
-            </form>
+            </form> -->
 
+            <form class="search">
+
+              <input  class="search-bar" type="text" placeholder="Search.." value="" required >
+              <button type="submit" id="submit"></button>
+            </form> 
+            <br>
+            <hr>
+
+           
             <!-- weather block -->
             <div class="weather-app">
 
                 <div class="city">
 
-                </div>
+                    <h2>Tel-Aviv</h2>
 
+                </div>
+            
+              
                 <!-- icons -->
                 <div class="weather-icons">
 
@@ -30,10 +48,41 @@
 
                 <!-- degree -->
                 <div class="weather-degree">
-
+    
+                    <h3>Cloudy<span>Wind 10km/h</span></span></h3>
+                    <h1>23°</h1><br>
                 </div>
 
+           
+            <div class="Weekly-weather">
+                <table>
+                    <tr>
+                        <td>SUN</td>
+                        <td>MON</td>
+                        <td>TUE</td>
+                        <td>WED</td>
+                        <td>THU</td>
+                    </tr>
+                    <tr>
+                        <td>30°</td>
+                        <td>34°</td>
+                        <td>36°</td>
+                        <td>34°</td>
+                        <td>37°</td>
+                    </tr>
+                    <tr>
+                        <td>17°</td>
+                        <td>22°</td>
+                        <td>19°</td>
+                        <td>23°</td>
+                        <td>19°</td>
+                    </tr>
+                </table>
             </div>
+        </div>
+        <br>
+        <hr>
+        
 
             <!--  wiki info  -->
             <h1>Country Info : </h1>
@@ -52,6 +101,8 @@
 
             <div class="population">
             </div>
+            <hr>
+        </div>
 
         </div>
 
