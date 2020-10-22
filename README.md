@@ -4,7 +4,7 @@ There was a beautiful idea of building an app that would show the upcoming weath
 Just to search a capital name in the search icon, then you git a lot information like, the country name, population, live temperature a week, wind speed and also the country flag.
 
 <p align="center">
-  <img src="/img/weather2.gif" width=720px height=360px />
+  <img src="/img/weather2.jpg" width=720px height=360px />
 </p>
 
 
@@ -18,6 +18,9 @@ in this weather app there are two sections, first is about the temperature value
 ## Weather App :
  Welcome to Weather App, in this amazing app You can choose the capital and get the info about it, easy and correctly detailes.<br>
  
+<p align="center">
+  <img src="/img/flagsweather.jpg" width=720px height=360px />
+</p>
 
 
 ## Built With
