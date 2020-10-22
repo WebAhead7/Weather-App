@@ -7,7 +7,11 @@ Just to search a capital name in the search icon, then you git a lot information
   <img src="/img/weather2.jpg" width=720px height=360px />
 </p>
 
+## Features:
 
+* User can view the weather in his/her current location.
+* User can toggle the temperature unit (Celsius or Fahrenheit).
+* Weather icon or background image will change depending on weather conditions.
 
 
 Stay informed with reliable forecasts, interactive radar and real-time rain alerts in the world, backed by the most trusted name in weather, It's the app customers call their "favorite," "easy to use," and "the best world weather app."
