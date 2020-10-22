@@ -22,7 +22,9 @@ in this weather app there are two sections, first is about the temperature value
  Welcome to Weather App, in this amazing app You can choose the capital and get the info about it, easy and correctly detailes.<br>
  
 <p align="center">
-  <img src="/img/flagsweather.jpg" width=720px height=360px />
+  <img src="/img/Madrid.png" width=320px height=360px />
+    <img src="/img/London.png" width=320px height=360px />
+
 </p>
 
 ## Key takeaway:
@@ -38,9 +40,7 @@ To add a city to your Weather App:
   <img src="/img/searchicon.png" width=300px height=100px />
 </p>
 
-In this Weather App there are two API's used from two different websites:
-1. https://restcountries.eu/rest/v2/capital/${capital.value}
-2. https://api.openweathermap.org/data/2.5/forecast?q=${capital.value}&appid=${Key}&units=metric
+
 
 
 ## Built With
