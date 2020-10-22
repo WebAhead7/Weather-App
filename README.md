@@ -8,16 +8,15 @@ Just to search a capital name in the search icon, then you git a lot information
 </p>
 
 ## Features:
+Stay informed with reliable forecasts, interactive radar and real-time rain alerts in the world, backed by the most trusted name in weather, It's the app customers call their "favorite," "easy to use," and "the best world weather app."
+Updated info in all capitals in the world, just to type the capital name to know the temperature value.
+It has everything from instant readings on what the weather’s doing now, to more detailed radar scans showing precipitation and clouds over a wider area.
+in this weather app there are two sections, first is about the temperature value any time you use it. The second section includes more info about country that you choose it like population, capital and the country's flag.
 
 * User can view the weather in his/her current location.
 * User can toggle the temperature unit (Celsius or Fahrenheit).
 * Weather icon or background image will change depending on weather conditions.
 
-
-Stay informed with reliable forecasts, interactive radar and real-time rain alerts in the world, backed by the most trusted name in weather, It's the app customers call their "favorite," "easy to use," and "the best world weather app."
-Updated info in all capitals in the world, just to type the capital name to know the temperature value.
-It has everything from instant readings on what the weather’s doing now, to more detailed radar scans showing precipitation and clouds over a wider area.
-in this weather app there are two sections, first is about the temperature value any time you use it. The second section includes more info about country that you choose it like population, capital and the country's flag.
 
 ## Weather App :
  Welcome to Weather App, in this amazing app You can choose the capital and get the info about it, easy and correctly detailes.<br>
