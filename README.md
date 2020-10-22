@@ -26,6 +26,9 @@ in this weather app there are two sections, first is about the temperature value
   <img src="/img/flagsweather.jpg" width=720px height=360px />
 </p>
 
+## Key takeaway
+Our major takeaway from this project is that we learnt how to access each part of the returned JSON data from the API response and use it in different ways. Although our methodology needs some refining, it’s bound to get better with more practice.
+
 
 ## Built With
 * HTML
