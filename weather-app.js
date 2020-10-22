@@ -24,8 +24,7 @@ fetch(`https://restcountries.eu/rest/v2/capital/${capital.value}`)
 .catch(error => console.log(error));
 
 const Key="959c745180588f77a59a13e5043064ef"
-    let city=document.getElementById("city").value;
-    fetch(`https://api.openweathermap.org/data/2.5/forecast?q=${city}&appid=${Key}&units=metric`)
+    fetch(`https://api.openweathermap.org/data/2.5/forecast?q=${capital.value}&appid=${Key}&units=metric`)
     .then(response=>response.json())
     .then(data => {
         let date = new Date();
