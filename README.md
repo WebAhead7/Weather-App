@@ -32,18 +32,15 @@ in this weather app there are two sections, first is about the temperature value
 ## Key takeaway:
 Our major takeaway from this project is that we learnt how to access each part of the returned JSON data from the API response and use it in different ways. Although our methodology needs some refining, it’s bound to get better with more practice.
 
-## Add cities and git info:
-To add a city to your Weather App:        
-1. Enter the name of the city.
+## How it works:       
+1. Enter the name of the capital.
 2. Click search.
-3. The info will appear in the screen about the city that you type.
+3. The weather and info will appear in the screen about the capital that you selected .
+
 
 <p align="center">
-  <img src="/img/searchicon.png" width=300px height=100px />
+  <img src="/img/giphy.gif" width=300px height=100px />
 </p>
-
-
-
 
 ## Built With
 * HTML
