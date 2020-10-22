@@ -21,16 +21,20 @@ const renderer= city=>{
    .then(response => {
     if (response.ok) {
         return response.json();
-      } else {
+    } else {
         h2.innerHTML = city;
-        country.style.display="none"
-        region.style.display="none";
-        population.style.display="none";
-        flag.style.display="none";
+        country.style.visibility = "hidden";
+        region.style.visibility = "hidden";
+        population.style.visibility = "hidden";
+        flag.style.visibility = "hidden";
         return 0;
       }
    })
-   .then(data => {if(data!==0){
+   .then(data => {if(data!=0){
+    country.style.visibility = "visible";
+    region.style.visibility = "visible";
+    population.style.visibility = "visible";
+    flag.style.visibility = "visible";
     const finaldata = data[0]
     country.innerHTML = finaldata.name;
     img.src= finaldata.flag;
