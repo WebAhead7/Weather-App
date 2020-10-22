@@ -4,8 +4,9 @@ There was a beautiful idea of building an app that would show the upcoming weath
 Just to search a capital name in the search icon, then you git a lot information like, the country name, population, live temperature a week, wind speed and also the country flag.
 
 <p align="center">
-  <img src="weather2" width="350" title="hover text">
+  <img src="/img/weather2.gif" width=720px height=360px />
 </p>
+
 
 
 <h4>Typing Lessons</h4>
