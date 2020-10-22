@@ -30,10 +30,10 @@ body {
   -moz-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
   box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
 }
-input {
+/* input {
   display: flex;
   justify-content: center;
-}
+} */
 
 /* input[type="text"] {
   margin: 0 auto;
@@ -60,7 +60,7 @@ form.example input[type="text"] {
   font-size: 17px;
   border: 1px solid grey;
   float: left;
-  width: 80%;
+  width: 70%;
   background: #f1f1f1;
 }
 
@@ -86,7 +86,7 @@ form.example::after {
   display: table;
 }
 
-#submit {
+/* #submit {
   float: left;
   width: 20%;
   padding: 10px;
@@ -96,7 +96,7 @@ form.example::after {
   border: 1px solid grey;
   border-left: none;
   cursor: pointer;
-}
+} */
 
 table {
   position: relative;
@@ -157,5 +157,22 @@ tr:nth-child(3) {
 
 .img {
   width: 280px;
-  height: 120px;
+  height: 100px;
+}
+
+.flag {
+  display: flex;
+  justify-content: center;
+}
+.country {
+  display: flex;
+  justify-content: center;
+}
+.region {
+  display: flex;
+  justify-content: center;
+}
+.population {
+  display: flex;
+  justify-content: center;
 }
