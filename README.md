@@ -3,6 +3,10 @@ Weatherapp
 There was a beautiful idea of building an app that would show the upcoming weather. The developers wrote a nice backend and a frontend following the latest principles and - to be honest - more info about any country. However, the developers add a lot of information to help you to be easy to know more info in this app. "Weather APP" is a beatifull app that depends on real information from a international API's about a lot of countries.
 Just to search a capital name in the search icon, then you git a lot information like, the country name, population, live temperature a week, wind speed and also the country flag.
 
+<p align="center">
+  <img src="weather2" width="350" title="hover text">
+</p>
+
 
 <h4>Typing Lessons</h4>
 Stay informed with reliable forecasts, interactive radar and real-time rain alerts in the world, backed by the most trusted name in weather, It's the app customers call their "favorite," "easy to use," and "the best world weather app."
