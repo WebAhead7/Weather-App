@@ -1,7 +1,7 @@
 # Weather-App: 
 
 <p align="center">
-  <img src="/img/weather2.jpg" width=720px height=360px />
+  <img src="/img/readme1.gif" width=1080px height=360px />
 </p>
 There was a beautiful idea of building an app that would show the upcoming weather. The developers wrote a nice backend and a frontend following the latest principles and - to be honest - more info about any country. However, the developers add a lot of information to help you to be easy to know more info in this app. "Weather APP" is a beatifull app that depends on real information from an international API's about a lot of countries.
 Just to search a capital name in the search icon, then you git a lot information like, the country name, population, live temperature a week, wind speed and also the country flag.
