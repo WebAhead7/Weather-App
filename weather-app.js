@@ -6,6 +6,7 @@ var region = document.querySelector('.region');
 var population = document.querySelector('.population');
 var img = document.querySelector('.img')
 const weak=["SUN","MON","TUE","WED","THU","FRI","SAT"];
+var h2 = document.querySelector('h2');
 
 document.getElementById("submit").addEventListener("click", function(event) {
     event.preventDefault();
@@ -18,6 +19,7 @@ fetch(`https://restcountries.eu/rest/v2/capital/${capital.value}`)
     img.src= finaldata.flag;
     region.innerHTML = finaldata.region;
     population.innerHTML = finaldata.population;
+    h2.innerHTML = capital.value;
 })
 .catch(error => console.log(error));
 
