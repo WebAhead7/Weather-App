@@ -15,7 +15,7 @@ It has everything from instant readings on what the weather’s doing now, to mo
 in this weather app there are two sections, first is about the temperature value any time you use it. The second section includes more info about country that you choose it like population, capital and the country's flag ,User can view the weather in his/her current location.
 
 ## Weather App :
- Welcome to Weather App, in this amazing app You can choose the capital and get the info about it, easy and correctly detailes.<br>
+ Welcome to Weather App, in this App You can choose the capital/City and get the info about it, easy and correctly detailes.<br>
  
 <p align="center">
   <img src="/img/Madrid.png" width=320px height=360px />
@@ -24,9 +24,10 @@ in this weather app there are two sections, first is about the temperature value
 </p>
 
 ## How it works:       
-1. Enter the name of the capital.
+1. Enter the name of the capital/City.
 2. Click search.
 3. The weather and info will appear in the screen about the capital that you selected .
+4. if you select a city the weather will appear without the extra info .
 
 ## Built With
 * HTML
