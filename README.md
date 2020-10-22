@@ -44,7 +44,7 @@ in this weather app there are two sections, first is about the temperature value
 * Rakad: [@GitHub](https://github.com/rakad-kh)
 <br>
 <p align="center">
-  <img src="/img/giphy.gif" width=300px height=100px />
+  <img src="/img/giphy.gif" width=720px height=360px />
 </p>
 <br>
 
