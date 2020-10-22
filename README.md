@@ -23,7 +23,7 @@ in this weather app there are two sections, first is about the temperature value
  Welcome to Weather App, in this amazing app You can choose the capital and get the info about it, easy and correctly detailes.<br>
  
 <p align="center">
-  <img src="/img/searchicon.png" width=720px height=360px />
+  <img src="/img/flagsweather.jpg" width=720px height=360px />
 </p>
 
 ## Key takeaway:
@@ -36,7 +36,7 @@ To add a city to your Weather App:
 3. The info will appear in the screen about the city that you type.
 
 <p align="center">
-  <img src="/img/.jpg" width=300px height=100px />
+  <img src="/img/searchicon.png" width=300px height=100px />
 </p>
 
 
